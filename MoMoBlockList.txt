@@ -1,2 +1,2 @@
 0.0.0.0 Tinder.com
-0.0.0.0 api.taboola.com/
+0.0.0.0 api.taboola.com
